@@ -1,0 +1,6 @@
+name: mech_revision_v1
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip

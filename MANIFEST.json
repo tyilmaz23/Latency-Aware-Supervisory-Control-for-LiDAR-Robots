@@ -1,0 +1,335 @@
+{
+  "algorithm": "sha256",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 90,
+      "sha256": "1e152962161dd5bcc7b8c14a5dc316f1514517597aa1256a93bccde3bfbdf55b"
+    },
+    {
+      "path": "analysis/archived_contrasts.json.gz",
+      "bytes": 52808,
+      "sha256": "91ba499c82d7495925d08d6908bcdb8bef9a085af66957e5152ffd91182ddd56"
+    },
+    {
+      "path": "analysis/audit_release.py",
+      "bytes": 9673,
+      "sha256": "1c7c7f03212ecf56d472f87183c1119be3077841bc07ee82768e8ca582cbfef6"
+    },
+    {
+      "path": "analysis/requirements.txt",
+      "bytes": 29,
+      "sha256": "5cb97e9b06fe5be4d215dd9515cf7c4c544d719b7afa93c6554c8751b548de39"
+    },
+    {
+      "path": "data/all_run_inventory.json",
+      "bytes": 83123,
+      "sha256": "3cd3eb26265a2ac1f7f44bdf35f814772b3868a9d90f907a08dec34769fbed7d"
+    },
+    {
+      "path": "data/episodes/ablation.jsonl.gz",
+      "bytes": 3482851,
+      "sha256": "2bfd584d5efd7284ad3f50bd689f44643ceb336a7d2a6d5b7e11c508ec580927"
+    },
+    {
+      "path": "data/episodes/cadence.jsonl.gz",
+      "bytes": 3031460,
+      "sha256": "aa15f67edeebb38221c0b45f55257f8f097e02e4f24d5890b13912b07b2ea6fc"
+    },
+    {
+      "path": "data/episodes/checkpoint.jsonl.gz",
+      "bytes": 751266,
+      "sha256": "70ab964c2ce767b0008220c0dbf43b9a4527f23f278a65f9fff7b305c8e733d9"
+    },
+    {
+      "path": "data/episodes/controls.jsonl.gz",
+      "bytes": 2635068,
+      "sha256": "c295c75e8577f4d72ca839686c7354eda7e7d80bc5da33062d16755653b521fb"
+    },
+    {
+      "path": "data/episodes/final.jsonl.gz",
+      "bytes": 3075231,
+      "sha256": "0882694f3fcf342999beebe0f041e1e28c09e953d4ea5915edde698d8912a4bb"
+    },
+    {
+      "path": "data/episodes/live.jsonl.gz",
+      "bytes": 2060470,
+      "sha256": "5f258bc92e8967c464e5992a1e7d554427efc9c72b6667bbf8d1bd290077f6ab"
+    },
+    {
+      "path": "data/episodes/mapping.jsonl.gz",
+      "bytes": 6003819,
+      "sha256": "d97f8d42f6a9fa65f698a0c8981ea4c47f9970c3e2a7ae30bfd9b51d73c3788c"
+    },
+    {
+      "path": "data/episodes/native.jsonl.gz",
+      "bytes": 11159925,
+      "sha256": "c098fa81aae87de665c178d4676dac72cf8ce5ac812bb0ea20804b31b30206d1"
+    },
+    {
+      "path": "data/episodes/validation.jsonl.gz",
+      "bytes": 335815,
+      "sha256": "fc56655896a11db94d343be1cd57e14e75aac391e88633ed544e3fb2bbd1e138"
+    },
+    {
+      "path": "data/events/live_factorial.jsonl.gz",
+      "bytes": 2463456,
+      "sha256": "8e02d4cb42f7f64b7493259553e36b013ad629464ac679b890b2a66889224ba1"
+    },
+    {
+      "path": "data/events/live_faults.jsonl.gz",
+      "bytes": 7200133,
+      "sha256": "8c84ceeab22a44f53576219c0e3c7c0769e63ae9c13e31d37e73513902e06b67"
+    },
+    {
+      "path": "data/events/live_nominal.jsonl.gz",
+      "bytes": 7550252,
+      "sha256": "3e12fc1808a1ad0e134d73bd1ce2b5bcf5985233c16ed9581123a4ccda76b0f2"
+    },
+    {
+      "path": "data/events/virtual_dynamic_K10.jsonl.gz",
+      "bytes": 1849630,
+      "sha256": "6298f46a700e75728cb03bb5b3fba04793c82d42606f9c76c503f22c234d1a74"
+    },
+    {
+      "path": "data/events/virtual_dynamic_K30.jsonl.gz",
+      "bytes": 1398367,
+      "sha256": "0122dc5b0e86ef8de44846add5a8a94356a6e8ad9fe7d2acb76f2dccf8b3b461"
+    },
+    {
+      "path": "data/normalized/configurations.json.gz",
+      "bytes": 16642,
+      "sha256": "6facdec29708431c5222b092a5aee48e05a1f052c03e6e68bd7dcfbec7046876"
+    },
+    {
+      "path": "data/normalized/episode_records.jsonl.gz",
+      "bytes": 1478470,
+      "sha256": "cef34d5a9cea8072281103cdf6fd0078e53bd47deedfa857f91c72d35be1ea0c"
+    },
+    {
+      "path": "data/normalized/llm_query_records.jsonl.gz",
+      "bytes": 3637049,
+      "sha256": "d7a3197f3a98268f7e4a8eef7f0be08211ec9d37ddb50a42854b347bb24c11d3"
+    },
+    {
+      "path": "data/overrun_step_records.jsonl.gz",
+      "bytes": 170714,
+      "sha256": "c507e323bb1b588b30cbd386e92d21abf99c4bd976e8e1e91c404246fb224b93"
+    },
+    {
+      "path": "data/run_configurations.json.gz",
+      "bytes": 34991,
+      "sha256": "7d0e08c3dd03f05d6067e54d82e8884263f87832a61b78ef4c3bb639e72e58a1"
+    },
+    {
+      "path": "GITHUB_YUKLEME_TR.md",
+      "bytes": 2122,
+      "sha256": "0dc03f76639b3eba0fbe3919bbafbbcb51303370f454d09e2a3cc1286ea1d289"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8968,
+      "sha256": "96f2248c3d37e566646f64e8eb3f0901636abf7b4b63cfbf0c9c9f1f3a5dc423"
+    },
+    {
+      "path": "RELEASE_SCOPE.json",
+      "bytes": 356,
+      "sha256": "8f0ff760c3c7a2ecc5bc0af9b7d9caa992ece71a9e1d2d2223a8387360dec22a"
+    },
+    {
+      "path": "REVIEWER_EVIDENCE_MAP.md",
+      "bytes": 4219,
+      "sha256": "c0a5d629d65f83ea5bba32f489867da082314a2f640bc3e4234f004320c32aa2"
+    },
+    {
+      "path": "simulation/assets/fsrl/best_actor.pt",
+      "bytes": 529718,
+      "sha256": "bb679c6d2c9f5a41f58edb66b189c5d047f9e5e725b20da8987066985322dbf6"
+    },
+    {
+      "path": "simulation/assets/fsrl/config.json",
+      "bytes": 678,
+      "sha256": "010059efce959d5b78c022584f12a9063b5464572f23982f9c38535d1f09aadf"
+    },
+    {
+      "path": "simulation/assets/fsrl/final_actor.pt",
+      "bytes": 529733,
+      "sha256": "ac09fbbbfd577571dc6dac3ed0ab62470d750114c7b99d8123795f9ae0833ba7"
+    },
+    {
+      "path": "simulation/assets/fsrl/training_summary.json",
+      "bytes": 1467,
+      "sha256": "f07a61a7b8db53f51d37933b03f6576289496d5888ed810d4bb168eb0b08fe49"
+    },
+    {
+      "path": "simulation/assets/independent/model.pkl",
+      "bytes": 106252,
+      "sha256": "2170352a3524804899a32411ab248c411df02ec53eea205602ec8ef120681e2b"
+    },
+    {
+      "path": "simulation/assets/independent/training_summary.json",
+      "bytes": 669,
+      "sha256": "0698234ddd5c3084c0718c677115261f7f957277373c10ed0931cac8ee84822e"
+    },
+    {
+      "path": "simulation/assets/mlp/model.pkl",
+      "bytes": 70259,
+      "sha256": "9f71cb8e78e3361958d54dbbc214724435e7dfca8ce9cd32bae33252bf3062b2"
+    },
+    {
+      "path": "simulation/assets/mlp/teacher_trace.json",
+      "bytes": 3647165,
+      "sha256": "36dfbf242db95fc9c66c9b7cbed48fad561e7931ef3be2249018aa4fb27f35ef"
+    },
+    {
+      "path": "simulation/assets/mlp/training_summary.json",
+      "bytes": 190,
+      "sha256": "53158ffba160b7277b0237727203fd888d88583771a5733f0e259ac165c4a604"
+    },
+    {
+      "path": "simulation/assets/ppo/model.zip",
+      "bytes": 2032889,
+      "sha256": "4136bb05a0f3e6dba28cdc7f56f7c6e5087eed93b6e733636d695595e815b596"
+    },
+    {
+      "path": "simulation/assets/ppo/vecnormalize.pkl",
+      "bytes": 10821,
+      "sha256": "d5b1830dc900ba2cba7197eb39348d4bdc0675f4f39c0d3faec448b5d6dffdd6"
+    },
+    {
+      "path": "simulation/baseline_eval_suite.py",
+      "bytes": 133737,
+      "sha256": "e372f178c20a168fdfed7d83e59b8430a49bcd15a6a9476b97fc54b6589cf28b"
+    },
+    {
+      "path": "simulation/configs/empirical_latency_seconds.json",
+      "bytes": 78628,
+      "sha256": "cfbd83b55a0504b4945b4418558a08b273c6f6e1874f61fa6f5717435782e31f"
+    },
+    {
+      "path": "simulation/configs/seeds_legacy.json",
+      "bytes": 14501,
+      "sha256": "b8b8caf0b847bb00061de5092c870ec5e945d2b09bbbf04d854a2464b2e675d4"
+    },
+    {
+      "path": "simulation/configs/seeds_test.json",
+      "bytes": 14535,
+      "sha256": "e2a5d64719abce0ef18149a02af91563fb9e42f473f72eae59c32fceb065f818"
+    },
+    {
+      "path": "simulation/configs/seeds_validation.json",
+      "bytes": 4355,
+      "sha256": "fd0972d8ed578cadf807a266abf731f1f9a5793c9d59c9fa87e63f80deb3e203"
+    },
+    {
+      "path": "simulation/configs/settings.json",
+      "bytes": 179,
+      "sha256": "7ad2f392187d4d091b64eec953a1f1d3cf93b70c8a01dff19c8da645b5461520"
+    },
+    {
+      "path": "simulation/environment.yml",
+      "bytes": 90,
+      "sha256": "48a75d5049c3db3f12abf70e6238febcc390518ce5d78e7d32059b360bcc44b1"
+    },
+    {
+      "path": "simulation/paired_eval_report.py",
+      "bytes": 14963,
+      "sha256": "3533fdf70ab2efb8db3e7a4f6072fc6615c047b1acba36112297631dbb919f84"
+    },
+    {
+      "path": "simulation/reference/original_training/export_mlp_imitation_model.py",
+      "bytes": 1883,
+      "sha256": "cefddd76b5c82fee74ba3b7f4a0ec9bf5b1ad7beeeff0d52799090206a2a83b1"
+    },
+    {
+      "path": "simulation/reference/original_training/train_fsrl_ppolag.py",
+      "bytes": 9757,
+      "sha256": "2849680a9f460ebc6c8bdcaaba8314dd53489b99e508edff081859e85fd81fe7"
+    },
+    {
+      "path": "simulation/reference/original_training/train_independent_nav_mlp.py",
+      "bytes": 11601,
+      "sha256": "e08129f4b6dac1e513accd146a7222a53265b091a7f9d64997a0248430b79bec"
+    },
+    {
+      "path": "simulation/reference/THIRD_PARTY_TIANSHOU_LICENSE.txt",
+      "bytes": 1078,
+      "sha256": "188d969c83a76ba895ec8866827142f33b6c512461bfdcf1ca0c46dcdf57aacc"
+    },
+    {
+      "path": "simulation/reference/tianshou_reference_provenance.json",
+      "bytes": 280,
+      "sha256": "21decc7e2ed580a9db96ecbbe0737a79c45beb520f7e105df288396c672db18b"
+    },
+    {
+      "path": "simulation/requirements.txt",
+      "bytes": 202,
+      "sha256": "794c5d9ec46f0eacdca4ac645ecbf282679e7db00ac6c97bad1df72c537a0789"
+    },
+    {
+      "path": "simulation/revision_suite/__init__.py",
+      "bytes": 332,
+      "sha256": "f313dfcd0c58c427dbe2fee2bc1d59e7a9ae7523e6a11f2756f9ada4fad040be"
+    },
+    {
+      "path": "simulation/revision_suite/analyze.py",
+      "bytes": 11586,
+      "sha256": "e21b3ef038340e1ddd705c8f5c446691f281749a3238cdeb5aede126b5440a7a"
+    },
+    {
+      "path": "simulation/revision_suite/api_worker.py",
+      "bytes": 2457,
+      "sha256": "2d253b9bcf592ef190ce1830ba778f56b1abc5f72eeccc75186dba6fa2f1b84f"
+    },
+    {
+      "path": "simulation/revision_suite/common.py",
+      "bytes": 2392,
+      "sha256": "ecb57030e4092048c06cfde3aefe72aeb1d459b2d4f8a8f09776d843dc618942"
+    },
+    {
+      "path": "simulation/revision_suite/controllers.py",
+      "bytes": 9004,
+      "sha256": "c3309723a854acdd771588dffeb1921273b4a2aabd8b61ddca53bf372030a4e6"
+    },
+    {
+      "path": "simulation/revision_suite/environment.py",
+      "bytes": 9967,
+      "sha256": "89ff550665c52bb7ba7d6f17c65c7d73751dd4427a64d428f9b4d8a98b7f2ceb"
+    },
+    {
+      "path": "simulation/revision_suite/models.py",
+      "bytes": 2911,
+      "sha256": "cb53da9c45c8d9e6a08e042d9bf3cfaa74420b0119280ade0b3b301831900b73"
+    },
+    {
+      "path": "simulation/revision_suite/plan.py",
+      "bytes": 8626,
+      "sha256": "bef5ad81acc44deb53861d6bfdc0b1db730aaff4a7fdeaebfc85d003885cc340"
+    },
+    {
+      "path": "simulation/revision_suite/run_job.py",
+      "bytes": 10785,
+      "sha256": "de637df2bd05f01deb1e0604dc7bc8329312f3327932e6d622af9e8135b7b523"
+    },
+    {
+      "path": "simulation/revision_suite/timing.py",
+      "bytes": 12129,
+      "sha256": "49869b8c6c1e0f20a9cd2d63810be8a6bf97d28600bbb03d883598879f138aff"
+    },
+    {
+      "path": "simulation/trainrl.py",
+      "bytes": 20210,
+      "sha256": "3a98a24af57f0707972ee8ef7329aaf23337c9e423a723987fca3de2a6cd48ba"
+    },
+    {
+      "path": "tools/run_selected.py",
+      "bytes": 1166,
+      "sha256": "674f0e19448b6d7d54225b1eed344c5e65081d734353cbe20b43166c1bb645db"
+    },
+    {
+      "path": "UPLOAD_CHECK.json",
+      "bytes": 336,
+      "sha256": "0f505f0839fcc09ef4abc675855ec37d6c0d0401a9a4a30a955a8e5a0ead5ad1"
+    }
+  ]
+}

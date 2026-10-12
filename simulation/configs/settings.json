@@ -1,0 +1,8 @@
+{
+  "validation_episodes": 300,
+  "test_episodes": 1000,
+  "live_episodes": 1000,
+  "live_stress_episodes": 500,
+  "gemini_model": "gemini-2.5-flash",
+  "api_cap": 100000
+}

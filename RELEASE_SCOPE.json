@@ -1,0 +1,16 @@
+{
+  "released_jobs": 189,
+  "released_episodes": 170300,
+  "all_study_jobs": 314,
+  "all_study_episodes": 295300,
+  "released_by_group": {
+    "offline": 134,
+    "controls": 14,
+    "live": 17,
+    "final": 24
+  },
+  "normalized_episode_records": 22000,
+  "normalized_query_records": 41416,
+  "recomputable_contrasts": 906,
+  "archived_contrasts": 1584
+}

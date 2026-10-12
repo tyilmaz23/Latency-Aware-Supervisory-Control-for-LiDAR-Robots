@@ -1,0 +1,6 @@
+{
+  "package": "tianshou==0.5.1",
+  "wheel_sha256": "a165aecde8b10c8696f03db929925f88afc0c38db91d8d4cb523297a2d8c63cd",
+  "source": "https://pypi.org/project/tianshou/0.5.1/",
+  "extraction": "miniblock, MLP, Net, ActorProb via AST; imports isolated, class logic unchanged"
+}

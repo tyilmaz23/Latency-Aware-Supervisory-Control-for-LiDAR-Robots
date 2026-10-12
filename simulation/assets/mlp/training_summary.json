@@ -1,0 +1,9 @@
+{
+  "teacher_trace_path": "/home/ty/buartificialintelligenceyegonderdigim/30json/local30.json",
+  "training_samples": 3393,
+  "mode_classes": [
+    "cautious",
+    "follow",
+    "stop"
+  ]
+}

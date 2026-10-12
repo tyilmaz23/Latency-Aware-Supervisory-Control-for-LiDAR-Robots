@@ -1,0 +1,32 @@
+{
+  "algorithm": "PPOLagAgent",
+  "seed": 42,
+  "train_num": 16,
+  "test_num": 0,
+  "epoch": 100000,
+  "max_train_episodes": 20000,
+  "step_per_epoch": 16384,
+  "episode_per_collect": 16,
+  "repeat_per_collect": 10,
+  "batch_size": 256,
+  "buffer_size": 100000,
+  "testing_num": 0,
+  "cost_limit": 0.2,
+  "safety_margin_m": 0.0,
+  "cost_mode": "collision_only",
+  "lr": 0.0005129457142555377,
+  "gamma": 0.99038378401138,
+  "gae_lambda": 0.9851847558275494,
+  "eps_clip": 0.2252229522012027,
+  "vf_coef": 0.5,
+  "max_grad_norm": 0.5,
+  "hidden_sizes": [
+    256,
+    256,
+    128
+  ],
+  "save_interval": 20,
+  "thread": 1,
+  "device": "cpu",
+  "reward_threshold": 1000000000.0
+}

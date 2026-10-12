@@ -1,0 +1,40 @@
+{
+  "stopped_by_max_train_episodes": true,
+  "cum_episode": 20080,
+  "env_step": 3865556,
+  "last_epoch": 211,
+  "last_epoch_stats": {
+    "update/episode": 20040.0,
+    "update/cum_cost": 919.3333333333334,
+    "train/reward": 0.8144778035951717,
+    "train/cost": 0.10416666666666667,
+    "train/length": 172.66666666666666,
+    "loss/rescaling": 0.9985022778902808,
+    "loss/lagrangian": 0.0015122377622377634,
+    "loss/actor_safety": -2.564773911637111e-05,
+    "loss/actor_rew": 0.0019723019461714095,
+    "loss/actor_total": 0.001946608762264594,
+    "loss/kl": 0.04231549651602974,
+    "loss/vf0": 0.027123523524382732,
+    "loss/vf1": 0.009121149525183116,
+    "loss/vf_total": 0.036244673165981164,
+    "loss/total": 0.02006894537618944,
+    "loss/entropy": -1.4990870944269885,
+    "update/gradient_steps": 55810.66666666667,
+    "update/duration": 122518.61463832855,
+    "update/train_collector_time": 121542.63363623619,
+    "update/train_model_time": 975.9810020923615,
+    "update/train_speed": 31.55076484835395,
+    "update/remaining_epoch": 99789.0
+  },
+  "last_info": {
+    "duration": 122518.61463832855,
+    "train_collector_time": 121542.63363623619,
+    "train_model_time": 975.9810020923615,
+    "train_speed": 31.55076484835395,
+    "remaining_epoch": 99789,
+    "best_reward": 1.0172254381968597,
+    "best_cost": 0.0
+  },
+  "policy_path": "/home/ty/buartificialintelligenceyegonderdigim/fsrl_runs/ppolag_parity_rlonly_v3_main/policy.pt"
+}

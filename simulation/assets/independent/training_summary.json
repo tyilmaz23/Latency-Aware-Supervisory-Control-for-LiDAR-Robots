@@ -1,0 +1,25 @@
+{
+  "method": "search_supervised_independent_mlp",
+  "model_path": "/home/ty/buartificialintelligenceyegonderdigim/checkpoints_rl_only/ppo_static_shaping_model.zip",
+  "env_variant": "baseline",
+  "episodes_scanned": 250,
+  "decision_interval": 30,
+  "search_horizon": 30,
+  "training_samples": 841,
+  "template_names": [
+    "follow_default",
+    "cautious_soft_align",
+    "cautious_hard_align",
+    "explore_soft_align",
+    "explore_hard_align",
+    "stop_align"
+  ],
+  "class_counts": {
+    "cautious_hard_align": 151,
+    "cautious_soft_align": 67,
+    "explore_hard_align": 166,
+    "explore_soft_align": 93,
+    "follow_default": 317,
+    "stop_align": 47
+  }
+}

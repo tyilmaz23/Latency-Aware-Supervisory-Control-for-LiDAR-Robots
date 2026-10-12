@@ -1,0 +1,4409 @@
+[
+  {
+    "group": "offline",
+    "job_id": "ablation_legacy10_G0R0_4b65ec88",
+    "episodes": 1000,
+    "counts": {
+      "reached": 924,
+      "collision": 47,
+      "timeout": 29
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "ablation_legacy10_G0R1_ec6d18ec",
+    "episodes": 1000,
+    "counts": {
+      "reached": 913,
+      "collision": 56,
+      "timeout": 31
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "ablation_legacy10_G1R0_9681da20",
+    "episodes": 1000,
+    "counts": {
+      "reached": 913,
+      "collision": 53,
+      "timeout": 34
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "ablation_legacy10_G1R1_b083c7d9",
+    "episodes": 1000,
+    "counts": {
+      "reached": 918,
+      "collision": 47,
+      "timeout": 35
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "ablation_legacy30_G0R0_09fd29a9",
+    "episodes": 1000,
+    "counts": {
+      "reached": 890,
+      "collision": 85,
+      "timeout": 25
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "ablation_legacy30_G0R1_b6e2fd9f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 897,
+      "collision": 77,
+      "timeout": 26
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "ablation_legacy30_G1R0_6245443c",
+    "episodes": 1000,
+    "counts": {
+      "reached": 909,
+      "collision": 60,
+      "timeout": 31
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "ablation_legacy30_G1R1_f88dd1c8",
+    "episodes": 1000,
+    "counts": {
+      "reached": 909,
+      "collision": 51,
+      "timeout": 40
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation",
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "ablation_physical10_G0R0_d94110d3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 919,
+      "collision": 29,
+      "timeout": 52
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation",
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "ablation_physical10_G0R1_f534d7ac",
+    "episodes": 1000,
+    "counts": {
+      "reached": 914,
+      "collision": 37,
+      "timeout": 49
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "ablation_physical10_G1R0_b938dc9b",
+    "episodes": 1000,
+    "counts": {
+      "reached": 923,
+      "collision": 30,
+      "timeout": 47
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "ablation_physical10_G1R1_262e88ee",
+    "episodes": 1000,
+    "counts": {
+      "reached": 921,
+      "collision": 26,
+      "timeout": 53
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "ablation_physical30_G0R0_29a208df",
+    "episodes": 1000,
+    "counts": {
+      "reached": 894,
+      "collision": 70,
+      "timeout": 36
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation",
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "ablation_physical30_G0R1_f3ce767e",
+    "episodes": 1000,
+    "counts": {
+      "reached": 909,
+      "collision": 45,
+      "timeout": 46
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "ablation_physical30_G1R0_c3280440",
+    "episodes": 1000,
+    "counts": {
+      "reached": 918,
+      "collision": 35,
+      "timeout": 47
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "body_cbf_corridor_0.04_154db82f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 791,
+      "collision": 17,
+      "timeout": 192
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "body_cbf_corridor_0.08_d78d1ad1",
+    "episodes": 1000,
+    "counts": {
+      "reached": 730,
+      "collision": 15,
+      "timeout": 255
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "body_cbf_corridor_0.12_ac7710cb",
+    "episodes": 1000,
+    "counts": {
+      "reached": 707,
+      "collision": 15,
+      "timeout": 278
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "body_cbf_nominal_0.04_48dc7228",
+    "episodes": 1000,
+    "counts": {
+      "reached": 855,
+      "collision": 9,
+      "timeout": 136
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "body_cbf_nominal_0.08_3a6c2fe4",
+    "episodes": 1000,
+    "counts": {
+      "reached": 813,
+      "collision": 6,
+      "timeout": 181
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "body_cbf_nominal_0.12_4beaeae4",
+    "episodes": 1000,
+    "counts": {
+      "reached": 770,
+      "collision": 4,
+      "timeout": 226
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "body_cbf_utrap_0.04_da720db3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 895,
+      "collision": 5,
+      "timeout": 100
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "body_cbf_utrap_0.08_895586fe",
+    "episodes": 1000,
+    "counts": {
+      "reached": 875,
+      "collision": 4,
+      "timeout": 121
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "body_cbf_utrap_0.12_4f5c8c31",
+    "episodes": 1000,
+    "counts": {
+      "reached": 863,
+      "collision": 3,
+      "timeout": 134
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_apf_10_9cab5320",
+    "episodes": 1000,
+    "counts": {
+      "reached": 903,
+      "collision": 19,
+      "timeout": 78
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_apf_1_212acc44",
+    "episodes": 1000,
+    "counts": {
+      "reached": 916,
+      "collision": 5,
+      "timeout": 79
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_apf_30_f009eaaf",
+    "episodes": 1000,
+    "counts": {
+      "reached": 902,
+      "collision": 36,
+      "timeout": 62
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_cbf_10_40595306",
+    "episodes": 1000,
+    "counts": {
+      "reached": 869,
+      "collision": 44,
+      "timeout": 87
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_cbf_1_247d434e",
+    "episodes": 1000,
+    "counts": {
+      "reached": 897,
+      "collision": 2,
+      "timeout": 101
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_cbf_30_2301db0b",
+    "episodes": 1000,
+    "counts": {
+      "reached": 870,
+      "collision": 53,
+      "timeout": 77
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_cbf_qp_10_5cf22c39",
+    "episodes": 1000,
+    "counts": {
+      "reached": 869,
+      "collision": 54,
+      "timeout": 77
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_cbf_qp_1_e77b4220",
+    "episodes": 1000,
+    "counts": {
+      "reached": 868,
+      "collision": 49,
+      "timeout": 83
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_cbf_qp_30_a5ead79b",
+    "episodes": 1000,
+    "counts": {
+      "reached": 869,
+      "collision": 55,
+      "timeout": 76
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_dwa_10_a314a000",
+    "episodes": 1000,
+    "counts": {
+      "reached": 455,
+      "collision": 5,
+      "timeout": 540
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_dwa_1_48f27182",
+    "episodes": 1000,
+    "counts": {
+      "reached": 544,
+      "collision": 0,
+      "timeout": 456
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_dwa_30_f26aaa7f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 176,
+      "collision": 567,
+      "timeout": 257
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_mlp_1_9063b3f4",
+    "episodes": 1000,
+    "counts": {
+      "reached": 906,
+      "collision": 35,
+      "timeout": 59
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_rule_10_46892933",
+    "episodes": 1000,
+    "counts": {
+      "reached": 588,
+      "collision": 1,
+      "timeout": 411
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_rule_1_b11ae7ca",
+    "episodes": 1000,
+    "counts": {
+      "reached": 528,
+      "collision": 0,
+      "timeout": 472
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "cadence_rule_30_d47ef6f8",
+    "episodes": 1000,
+    "counts": {
+      "reached": 663,
+      "collision": 13,
+      "timeout": 324
+    },
+    "released": true,
+    "experiment_groups": [
+      "cadence"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "checkpoint_corridor_fsrl_best_0d46a378",
+    "episodes": 1000,
+    "counts": {
+      "reached": 941,
+      "collision": 32,
+      "timeout": 27
+    },
+    "released": true,
+    "experiment_groups": [
+      "checkpoint"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "checkpoint_dynamic_fsrl_best_5fab6e67",
+    "episodes": 1000,
+    "counts": {
+      "reached": 778,
+      "collision": 222,
+      "timeout": 0
+    },
+    "released": true,
+    "experiment_groups": [
+      "checkpoint"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "checkpoint_nominal_fsrl_best_e73ee548",
+    "episodes": 1000,
+    "counts": {
+      "reached": 967,
+      "collision": 21,
+      "timeout": 12
+    },
+    "released": true,
+    "experiment_groups": [
+      "checkpoint"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "checkpoint_utrap_fsrl_best_670a6352",
+    "episodes": 1000,
+    "counts": {
+      "reached": 978,
+      "collision": 12,
+      "timeout": 10
+    },
+    "released": true,
+    "experiment_groups": [
+      "checkpoint"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_actuation03_cbf_qp_4f3c68d4",
+    "episodes": 1000,
+    "counts": {
+      "reached": 835,
+      "collision": 121,
+      "timeout": 44
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_actuation03_dwa_fbb3e2d1",
+    "episodes": 1000,
+    "counts": {
+      "reached": 543,
+      "collision": 0,
+      "timeout": 457
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_actuation03_fsrl_1bb237f6",
+    "episodes": 1000,
+    "counts": {
+      "reached": 915,
+      "collision": 70,
+      "timeout": 15
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_actuation03_mlp_bae9edcf",
+    "episodes": 1000,
+    "counts": {
+      "reached": 865,
+      "collision": 100,
+      "timeout": 35
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_actuation03_ppo_48610327",
+    "episodes": 1000,
+    "counts": {
+      "reached": 833,
+      "collision": 124,
+      "timeout": 43
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_actuation06_cbf_qp_1dc852b3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 818,
+      "collision": 146,
+      "timeout": 36
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_actuation06_dwa_13f54321",
+    "episodes": 1000,
+    "counts": {
+      "reached": 537,
+      "collision": 0,
+      "timeout": 463
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_actuation06_fsrl_b5adf5c3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 904,
+      "collision": 82,
+      "timeout": 14
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_actuation06_mlp_e2b95d96",
+    "episodes": 1000,
+    "counts": {
+      "reached": 855,
+      "collision": 119,
+      "timeout": 26
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_actuation06_ppo_2c523370",
+    "episodes": 1000,
+    "counts": {
+      "reached": 818,
+      "collision": 148,
+      "timeout": 34
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_combined_cbf_qp_8dacd84a",
+    "episodes": 1000,
+    "counts": {
+      "reached": 842,
+      "collision": 87,
+      "timeout": 71
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_combined_dwa_801ef106",
+    "episodes": 1000,
+    "counts": {
+      "reached": 467,
+      "collision": 0,
+      "timeout": 533
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_combined_fsrl_98a205bd",
+    "episodes": 1000,
+    "counts": {
+      "reached": 787,
+      "collision": 207,
+      "timeout": 6
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_combined_mlp_abf75c9d",
+    "episodes": 1000,
+    "counts": {
+      "reached": 789,
+      "collision": 65,
+      "timeout": 146
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_combined_ppo_86504916",
+    "episodes": 1000,
+    "counts": {
+      "reached": 781,
+      "collision": 174,
+      "timeout": 45
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_command_delay2_cbf_qp_2340caf3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 889,
+      "collision": 70,
+      "timeout": 41
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_command_delay2_dwa_5a410fb0",
+    "episodes": 1000,
+    "counts": {
+      "reached": 518,
+      "collision": 0,
+      "timeout": 482
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_command_delay2_fsrl_c7471f38",
+    "episodes": 1000,
+    "counts": {
+      "reached": 904,
+      "collision": 80,
+      "timeout": 16
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_command_delay2_mlp_c3015a2b",
+    "episodes": 1000,
+    "counts": {
+      "reached": 863,
+      "collision": 29,
+      "timeout": 108
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_command_delay2_ppo_672cbbd3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 887,
+      "collision": 72,
+      "timeout": 41
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_ideal_cbf_qp_87cef106",
+    "episodes": 1000,
+    "counts": {
+      "reached": 862,
+      "collision": 63,
+      "timeout": 75
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_ideal_fsrl_41ecf132",
+    "episodes": 1000,
+    "counts": {
+      "reached": 928,
+      "collision": 62,
+      "timeout": 10
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_localization_cbf_qp_7de82903",
+    "episodes": 1000,
+    "counts": {
+      "reached": 878,
+      "collision": 61,
+      "timeout": 61
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_localization_dwa_f8755849",
+    "episodes": 1000,
+    "counts": {
+      "reached": 546,
+      "collision": 0,
+      "timeout": 454
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_localization_fsrl_e0d92a2f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 927,
+      "collision": 67,
+      "timeout": 6
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_localization_mlp_a042282e",
+    "episodes": 1000,
+    "counts": {
+      "reached": 915,
+      "collision": 37,
+      "timeout": 48
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_localization_ppo_1f0c8947",
+    "episodes": 1000,
+    "counts": {
+      "reached": 877,
+      "collision": 65,
+      "timeout": 58
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_scan_burst_cbf_qp_f020d7a3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 843,
+      "collision": 97,
+      "timeout": 60
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_scan_burst_dwa_5b9c896f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 542,
+      "collision": 0,
+      "timeout": 458
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_scan_burst_fsrl_24c55290",
+    "episodes": 1000,
+    "counts": {
+      "reached": 911,
+      "collision": 82,
+      "timeout": 7
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_scan_burst_mlp_49aeff42",
+    "episodes": 1000,
+    "counts": {
+      "reached": 880,
+      "collision": 75,
+      "timeout": 45
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_scan_burst_ppo_39dd03cb",
+    "episodes": 1000,
+    "counts": {
+      "reached": 843,
+      "collision": 100,
+      "timeout": 57
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_scan_delay_cbf_qp_059fa330",
+    "episodes": 1000,
+    "counts": {
+      "reached": 817,
+      "collision": 105,
+      "timeout": 78
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_scan_delay_dwa_f8871f56",
+    "episodes": 1000,
+    "counts": {
+      "reached": 521,
+      "collision": 0,
+      "timeout": 479
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_scan_delay_fsrl_4d822d9d",
+    "episodes": 1000,
+    "counts": {
+      "reached": 754,
+      "collision": 239,
+      "timeout": 7
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_scan_delay_mlp_b5bf180d",
+    "episodes": 1000,
+    "counts": {
+      "reached": 815,
+      "collision": 75,
+      "timeout": 110
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "domain_scan_delay_ppo_5178a380",
+    "episodes": 1000,
+    "counts": {
+      "reached": 813,
+      "collision": 110,
+      "timeout": 77
+    },
+    "released": false,
+    "experiment_groups": [
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "gate_scaffold_G0R0_2b5e79e3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 868,
+      "collision": 56,
+      "timeout": 76
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "gate_scaffold_G0R1_74e62ad8",
+    "episodes": 1000,
+    "counts": {
+      "reached": 901,
+      "collision": 49,
+      "timeout": 50
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "gate_scaffold_G1R0_6bbd5a5f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 868,
+      "collision": 56,
+      "timeout": 76
+    },
+    "released": true,
+    "experiment_groups": [
+      "ablation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "geometry_corridor_dwa_67605f03",
+    "episodes": 1000,
+    "counts": {
+      "reached": 500,
+      "collision": 0,
+      "timeout": 500
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "geometry_corridor_mlp_a3a8e3be",
+    "episodes": 1000,
+    "counts": {
+      "reached": 884,
+      "collision": 56,
+      "timeout": 60
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "geometry_corridor_ppo_ad1ad382",
+    "episodes": 1000,
+    "counts": {
+      "reached": 827,
+      "collision": 95,
+      "timeout": 78
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "geometry_nominal_dwa_52846b6a",
+    "episodes": 1000,
+    "counts": {
+      "reached": 543,
+      "collision": 0,
+      "timeout": 457
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry",
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "geometry_nominal_mlp_e30312df",
+    "episodes": 1000,
+    "counts": {
+      "reached": 908,
+      "collision": 35,
+      "timeout": 57
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry",
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "geometry_nominal_ppo_71b7edd3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 862,
+      "collision": 67,
+      "timeout": 71
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry",
+      "domain"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "geometry_utrap_dwa_d2672505",
+    "episodes": 1000,
+    "counts": {
+      "reached": 707,
+      "collision": 0,
+      "timeout": 293
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "geometry_utrap_mlp_6a31fb6a",
+    "episodes": 1000,
+    "counts": {
+      "reached": 950,
+      "collision": 19,
+      "timeout": 31
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "geometry_utrap_ppo_3ceae904",
+    "episodes": 1000,
+    "counts": {
+      "reached": 898,
+      "collision": 36,
+      "timeout": 66
+    },
+    "released": false,
+    "experiment_groups": [
+      "geometry"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_apf_corridor_legacy_03ca4230",
+    "episodes": 1000,
+    "counts": {
+      "reached": 889,
+      "collision": 61,
+      "timeout": 50
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_apf_corridor_physical_80ba1761",
+    "episodes": 1000,
+    "counts": {
+      "reached": 891,
+      "collision": 28,
+      "timeout": 81
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_apf_corridor_scale_only_587b10c3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 891,
+      "collision": 31,
+      "timeout": 78
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_apf_corridor_stop_only_8615bba5",
+    "episodes": 1000,
+    "counts": {
+      "reached": 889,
+      "collision": 59,
+      "timeout": 52
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_apf_nominal_legacy_04d24826",
+    "episodes": 1000,
+    "counts": {
+      "reached": 919,
+      "collision": 47,
+      "timeout": 34
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_apf_nominal_physical_dd579297",
+    "episodes": 1000,
+    "counts": {
+      "reached": 891,
+      "collision": 15,
+      "timeout": 94
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_apf_nominal_scale_only_a0f43df7",
+    "episodes": 1000,
+    "counts": {
+      "reached": 891,
+      "collision": 17,
+      "timeout": 92
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_apf_nominal_stop_only_13dfddb3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 919,
+      "collision": 41,
+      "timeout": 40
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_apf_utrap_legacy_031ee6a3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 931,
+      "collision": 26,
+      "timeout": 43
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_apf_utrap_physical_756517ca",
+    "episodes": 1000,
+    "counts": {
+      "reached": 923,
+      "collision": 9,
+      "timeout": 68
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_apf_utrap_scale_only_cca76f3c",
+    "episodes": 1000,
+    "counts": {
+      "reached": 923,
+      "collision": 9,
+      "timeout": 68
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_apf_utrap_stop_only_d21b5a71",
+    "episodes": 1000,
+    "counts": {
+      "reached": 931,
+      "collision": 24,
+      "timeout": 45
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_mlp_corridor_legacy_f8da5922",
+    "episodes": 1000,
+    "counts": {
+      "reached": 874,
+      "collision": 67,
+      "timeout": 59
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_mlp_corridor_scale_only_f14553ad",
+    "episodes": 1000,
+    "counts": {
+      "reached": 893,
+      "collision": 42,
+      "timeout": 65
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_mlp_corridor_stop_only_ed28b361",
+    "episodes": 1000,
+    "counts": {
+      "reached": 875,
+      "collision": 66,
+      "timeout": 59
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_mlp_nominal_scale_only_3c72026c",
+    "episodes": 1000,
+    "counts": {
+      "reached": 904,
+      "collision": 37,
+      "timeout": 59
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_mlp_nominal_stop_only_291c2fbb",
+    "episodes": 1000,
+    "counts": {
+      "reached": 909,
+      "collision": 51,
+      "timeout": 40
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_mlp_utrap_legacy_f76cfb2d",
+    "episodes": 1000,
+    "counts": {
+      "reached": 933,
+      "collision": 34,
+      "timeout": 33
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_mlp_utrap_scale_only_1a70d600",
+    "episodes": 1000,
+    "counts": {
+      "reached": 955,
+      "collision": 15,
+      "timeout": 30
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_mlp_utrap_stop_only_f1d4e3bd",
+    "episodes": 1000,
+    "counts": {
+      "reached": 933,
+      "collision": 34,
+      "timeout": 33
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_rule_corridor_legacy_384a014f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 823,
+      "collision": 144,
+      "timeout": 33
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_rule_corridor_physical_8ca2f5c6",
+    "episodes": 1000,
+    "counts": {
+      "reached": 641,
+      "collision": 15,
+      "timeout": 344
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_rule_corridor_scale_only_7ecbfba9",
+    "episodes": 1000,
+    "counts": {
+      "reached": 802,
+      "collision": 123,
+      "timeout": 75
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_rule_corridor_stop_only_7a1abe40",
+    "episodes": 1000,
+    "counts": {
+      "reached": 641,
+      "collision": 28,
+      "timeout": 331
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_rule_nominal_legacy_d18b5eea",
+    "episodes": 1000,
+    "counts": {
+      "reached": 874,
+      "collision": 112,
+      "timeout": 14
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_rule_nominal_scale_only_71068d3b",
+    "episodes": 1000,
+    "counts": {
+      "reached": 835,
+      "collision": 99,
+      "timeout": 66
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_rule_nominal_stop_only_f6ca1405",
+    "episodes": 1000,
+    "counts": {
+      "reached": 685,
+      "collision": 26,
+      "timeout": 289
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_rule_utrap_legacy_f7c9a10e",
+    "episodes": 1000,
+    "counts": {
+      "reached": 901,
+      "collision": 62,
+      "timeout": 37
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_rule_utrap_physical_120ac000",
+    "episodes": 1000,
+    "counts": {
+      "reached": 821,
+      "collision": 5,
+      "timeout": 174
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_rule_utrap_scale_only_f2e88ded",
+    "episodes": 1000,
+    "counts": {
+      "reached": 894,
+      "collision": 47,
+      "timeout": 59
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "mapping_rule_utrap_stop_only_7d0191cc",
+    "episodes": 1000,
+    "counts": {
+      "reached": 829,
+      "collision": 16,
+      "timeout": 155
+    },
+    "released": true,
+    "experiment_groups": [
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_corridor_apf_eb6cf576",
+    "episodes": 1000,
+    "counts": {
+      "reached": 891,
+      "collision": 18,
+      "timeout": 91
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_corridor_cbf_e51c1b18",
+    "episodes": 1000,
+    "counts": {
+      "reached": 868,
+      "collision": 1,
+      "timeout": 131
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_corridor_cbf_qp_d178e352",
+    "episodes": 1000,
+    "counts": {
+      "reached": 839,
+      "collision": 73,
+      "timeout": 88
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_corridor_dwa_191a7072",
+    "episodes": 1000,
+    "counts": {
+      "reached": 497,
+      "collision": 0,
+      "timeout": 503
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_corridor_fsrl_80f3dfc9",
+    "episodes": 1000,
+    "counts": {
+      "reached": 923,
+      "collision": 65,
+      "timeout": 12
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_corridor_mlp_c4c41c06",
+    "episodes": 1000,
+    "counts": {
+      "reached": 893,
+      "collision": 42,
+      "timeout": 65
+    },
+    "released": true,
+    "experiment_groups": [
+      "native",
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_corridor_ppo_9745acc7",
+    "episodes": 1000,
+    "counts": {
+      "reached": 836,
+      "collision": 83,
+      "timeout": 81
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_drop010_apf_5a20101a",
+    "episodes": 1000,
+    "counts": {
+      "reached": 930,
+      "collision": 11,
+      "timeout": 59
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_drop010_cbf_e361e015",
+    "episodes": 1000,
+    "counts": {
+      "reached": 935,
+      "collision": 2,
+      "timeout": 63
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_drop010_cbf_qp_ef2ff78d",
+    "episodes": 1000,
+    "counts": {
+      "reached": 891,
+      "collision": 65,
+      "timeout": 44
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_drop010_dwa_4072c384",
+    "episodes": 1000,
+    "counts": {
+      "reached": 553,
+      "collision": 2,
+      "timeout": 445
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_drop010_fsrl_ed8f311f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 919,
+      "collision": 75,
+      "timeout": 6
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_drop010_mlp_723a514f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 927,
+      "collision": 42,
+      "timeout": 31
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_drop010_ppo_ce4d4390",
+    "episodes": 1000,
+    "counts": {
+      "reached": 888,
+      "collision": 71,
+      "timeout": 41
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_drop030_apf_a89abc53",
+    "episodes": 1000,
+    "counts": {
+      "reached": 933,
+      "collision": 11,
+      "timeout": 56
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_drop030_cbf_27a9f9c3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 936,
+      "collision": 2,
+      "timeout": 62
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_drop030_cbf_qp_45343769",
+    "episodes": 1000,
+    "counts": {
+      "reached": 883,
+      "collision": 76,
+      "timeout": 41
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_drop030_dwa_6e09739a",
+    "episodes": 1000,
+    "counts": {
+      "reached": 561,
+      "collision": 4,
+      "timeout": 435
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_drop030_fsrl_92a271b3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 847,
+      "collision": 150,
+      "timeout": 3
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_drop030_mlp_1da2be5f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 909,
+      "collision": 51,
+      "timeout": 40
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_drop030_ppo_8dac84ba",
+    "episodes": 1000,
+    "counts": {
+      "reached": 881,
+      "collision": 80,
+      "timeout": 39
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_dynamic_apf_18cb243c",
+    "episodes": 1000,
+    "counts": {
+      "reached": 765,
+      "collision": 182,
+      "timeout": 53
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_dynamic_cbf_686a6a29",
+    "episodes": 1000,
+    "counts": {
+      "reached": 728,
+      "collision": 157,
+      "timeout": 115
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_dynamic_cbf_qp_30147205",
+    "episodes": 1000,
+    "counts": {
+      "reached": 719,
+      "collision": 168,
+      "timeout": 113
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_dynamic_dwa_7d51c81c",
+    "episodes": 1000,
+    "counts": {
+      "reached": 694,
+      "collision": 226,
+      "timeout": 80
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_dynamic_fsrl_693578a5",
+    "episodes": 1000,
+    "counts": {
+      "reached": 799,
+      "collision": 201,
+      "timeout": 0
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_dynamic_mlp_f97f9a5a",
+    "episodes": 1000,
+    "counts": {
+      "reached": 775,
+      "collision": 192,
+      "timeout": 33
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_dynamic_ppo_d74fad43",
+    "episodes": 1000,
+    "counts": {
+      "reached": 718,
+      "collision": 169,
+      "timeout": 113
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_noise005_apf_a9f31f91",
+    "episodes": 1000,
+    "counts": {
+      "reached": 931,
+      "collision": 12,
+      "timeout": 57
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_noise005_cbf_bceaf3c3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 939,
+      "collision": 1,
+      "timeout": 60
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_noise005_cbf_qp_d97f0230",
+    "episodes": 1000,
+    "counts": {
+      "reached": 937,
+      "collision": 26,
+      "timeout": 37
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_noise005_dwa_51480c11",
+    "episodes": 1000,
+    "counts": {
+      "reached": 429,
+      "collision": 3,
+      "timeout": 568
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_noise005_fsrl_7ea8677b",
+    "episodes": 1000,
+    "counts": {
+      "reached": 935,
+      "collision": 58,
+      "timeout": 7
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_noise005_mlp_cbb3d4bd",
+    "episodes": 1000,
+    "counts": {
+      "reached": 934,
+      "collision": 37,
+      "timeout": 29
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_noise005_ppo_550967a3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 907,
+      "collision": 62,
+      "timeout": 31
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_noise010_apf_978d7c3f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 933,
+      "collision": 9,
+      "timeout": 58
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_noise010_cbf_3981c4da",
+    "episodes": 1000,
+    "counts": {
+      "reached": 937,
+      "collision": 0,
+      "timeout": 63
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_noise010_cbf_qp_084e27a9",
+    "episodes": 1000,
+    "counts": {
+      "reached": 952,
+      "collision": 25,
+      "timeout": 23
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_noise010_dwa_406d96d3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 372,
+      "collision": 4,
+      "timeout": 624
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_noise010_fsrl_5fce890f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 933,
+      "collision": 60,
+      "timeout": 7
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_noise010_mlp_7943654f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 933,
+      "collision": 32,
+      "timeout": 35
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_noise010_ppo_04c3814f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 912,
+      "collision": 70,
+      "timeout": 18
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_nominal_apf_25945ca2",
+    "episodes": 1000,
+    "counts": {
+      "reached": 907,
+      "collision": 7,
+      "timeout": 86
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_nominal_cbf_8cbf576b",
+    "episodes": 1000,
+    "counts": {
+      "reached": 897,
+      "collision": 2,
+      "timeout": 101
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_nominal_cbf_qp_9e6bcd29",
+    "episodes": 1000,
+    "counts": {
+      "reached": 868,
+      "collision": 49,
+      "timeout": 83
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_nominal_dwa_3b79eaf6",
+    "episodes": 1000,
+    "counts": {
+      "reached": 544,
+      "collision": 0,
+      "timeout": 456
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_nominal_fsrl_81ca3d98",
+    "episodes": 1000,
+    "counts": {
+      "reached": 932,
+      "collision": 59,
+      "timeout": 9
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_nominal_gate_77c75a1f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 874,
+      "collision": 27,
+      "timeout": 99
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_nominal_independent_6a7c6af9",
+    "episodes": 1000,
+    "counts": {
+      "reached": 889,
+      "collision": 40,
+      "timeout": 71
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_nominal_mlp_51b88854",
+    "episodes": 1000,
+    "counts": {
+      "reached": 904,
+      "collision": 37,
+      "timeout": 59
+    },
+    "released": true,
+    "experiment_groups": [
+      "native",
+      "ablation",
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_nominal_ppo_d34d0270",
+    "episodes": 1000,
+    "counts": {
+      "reached": 868,
+      "collision": 56,
+      "timeout": 76
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_nominal_rule_b07ab62e",
+    "episodes": 1000,
+    "counts": {
+      "reached": 671,
+      "collision": 10,
+      "timeout": 319
+    },
+    "released": true,
+    "experiment_groups": [
+      "native",
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_utrap_apf_caf138fd",
+    "episodes": 1000,
+    "counts": {
+      "reached": 946,
+      "collision": 4,
+      "timeout": 50
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_utrap_cbf_d103213c",
+    "episodes": 1000,
+    "counts": {
+      "reached": 918,
+      "collision": 0,
+      "timeout": 82
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_utrap_cbf_qp_632d8703",
+    "episodes": 1000,
+    "counts": {
+      "reached": 903,
+      "collision": 27,
+      "timeout": 70
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_utrap_dwa_d17c78fa",
+    "episodes": 1000,
+    "counts": {
+      "reached": 706,
+      "collision": 0,
+      "timeout": 294
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_utrap_fsrl_64c1b651",
+    "episodes": 1000,
+    "counts": {
+      "reached": 954,
+      "collision": 42,
+      "timeout": 4
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_utrap_mlp_75eec045",
+    "episodes": 1000,
+    "counts": {
+      "reached": 955,
+      "collision": 15,
+      "timeout": 30
+    },
+    "released": true,
+    "experiment_groups": [
+      "native",
+      "mapping"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "native_utrap_ppo_c19b1409",
+    "episodes": 1000,
+    "counts": {
+      "reached": 901,
+      "collision": 31,
+      "timeout": 68
+    },
+    "released": true,
+    "experiment_groups": [
+      "native"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "progress_0.005_36cad255",
+    "episodes": 1000,
+    "counts": {
+      "reached": 910,
+      "collision": 32,
+      "timeout": 58
+    },
+    "released": false,
+    "experiment_groups": [
+      "sensitivity"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "progress_0.02_c24007be",
+    "episodes": 1000,
+    "counts": {
+      "reached": 913,
+      "collision": 46,
+      "timeout": 41
+    },
+    "released": false,
+    "experiment_groups": [
+      "sensitivity"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_corridor_fsrl_b6c9f8dd",
+    "episodes": 1000,
+    "counts": {
+      "reached": 928,
+      "collision": 63,
+      "timeout": 9
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_corridor_ppo_3548e812",
+    "episodes": 1000,
+    "counts": {
+      "reached": 845,
+      "collision": 76,
+      "timeout": 79
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_drop010_fsrl_59720d7b",
+    "episodes": 1000,
+    "counts": {
+      "reached": 917,
+      "collision": 74,
+      "timeout": 9
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_drop010_ppo_1530e087",
+    "episodes": 1000,
+    "counts": {
+      "reached": 894,
+      "collision": 65,
+      "timeout": 41
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_drop030_fsrl_959cb123",
+    "episodes": 1000,
+    "counts": {
+      "reached": 864,
+      "collision": 133,
+      "timeout": 3
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_drop030_ppo_f84b424b",
+    "episodes": 1000,
+    "counts": {
+      "reached": 873,
+      "collision": 90,
+      "timeout": 37
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_dynamic_fsrl_6d5f206e",
+    "episodes": 1000,
+    "counts": {
+      "reached": 780,
+      "collision": 219,
+      "timeout": 1
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_dynamic_ppo_ba43b32b",
+    "episodes": 1000,
+    "counts": {
+      "reached": 693,
+      "collision": 211,
+      "timeout": 96
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_fsrl_best_94a14889",
+    "episodes": 1000,
+    "counts": {
+      "reached": 955,
+      "collision": 26,
+      "timeout": 19
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_noise005_fsrl_1e680e88",
+    "episodes": 1000,
+    "counts": {
+      "reached": 933,
+      "collision": 55,
+      "timeout": 12
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_noise005_ppo_0649b789",
+    "episodes": 1000,
+    "counts": {
+      "reached": 897,
+      "collision": 67,
+      "timeout": 36
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_noise010_fsrl_408310ad",
+    "episodes": 1000,
+    "counts": {
+      "reached": 929,
+      "collision": 60,
+      "timeout": 11
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_noise010_ppo_b120861f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 917,
+      "collision": 60,
+      "timeout": 23
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_nominal_apf_89d93ed9",
+    "episodes": 1000,
+    "counts": {
+      "reached": 918,
+      "collision": 33,
+      "timeout": 49
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_nominal_cbf_1ddd77a5",
+    "episodes": 1000,
+    "counts": {
+      "reached": 888,
+      "collision": 1,
+      "timeout": 111
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_nominal_cbf_qp_e2ede0a1",
+    "episodes": 1000,
+    "counts": {
+      "reached": 866,
+      "collision": 58,
+      "timeout": 76
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_nominal_fsrl_d0eb7092",
+    "episodes": 1000,
+    "counts": {
+      "reached": 932,
+      "collision": 52,
+      "timeout": 16
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_nominal_gate_7e3c342a",
+    "episodes": 1000,
+    "counts": {
+      "reached": 893,
+      "collision": 61,
+      "timeout": 46
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_nominal_independent_8a4c4ded",
+    "episodes": 1000,
+    "counts": {
+      "reached": 901,
+      "collision": 83,
+      "timeout": 16
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_nominal_mlp_e417ee49",
+    "episodes": 1000,
+    "counts": {
+      "reached": 907,
+      "collision": 62,
+      "timeout": 31
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_nominal_ppo_c3df678d",
+    "episodes": 1000,
+    "counts": {
+      "reached": 865,
+      "collision": 61,
+      "timeout": 74
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_nominal_rule_cebb1902",
+    "episodes": 1000,
+    "counts": {
+      "reached": 865,
+      "collision": 116,
+      "timeout": 19
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_utrap_fsrl_bed9790f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 945,
+      "collision": 43,
+      "timeout": 12
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "repair_utrap_ppo_aea57c2f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 891,
+      "collision": 27,
+      "timeout": 82
+    },
+    "released": false,
+    "experiment_groups": [
+      "repair"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "sensitivity_-0.1_0.0_3a6e5576",
+    "episodes": 1000,
+    "counts": {
+      "reached": 911,
+      "collision": 31,
+      "timeout": 58
+    },
+    "released": false,
+    "experiment_groups": [
+      "sensitivity"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "sensitivity_-0.1_0.1_cb436387",
+    "episodes": 1000,
+    "counts": {
+      "reached": 909,
+      "collision": 35,
+      "timeout": 56
+    },
+    "released": false,
+    "experiment_groups": [
+      "sensitivity"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "sensitivity_-0.2_-0.1_8cd2934b",
+    "episodes": 1000,
+    "counts": {
+      "reached": 900,
+      "collision": 40,
+      "timeout": 60
+    },
+    "released": false,
+    "experiment_groups": [
+      "sensitivity"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "sensitivity_-0.2_0.0_eae6b538",
+    "episodes": 1000,
+    "counts": {
+      "reached": 904,
+      "collision": 37,
+      "timeout": 59
+    },
+    "released": false,
+    "experiment_groups": [
+      "sensitivity"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "sensitivity_-0.2_0.1_c139b0c5",
+    "episodes": 1000,
+    "counts": {
+      "reached": 915,
+      "collision": 30,
+      "timeout": 55
+    },
+    "released": false,
+    "experiment_groups": [
+      "sensitivity"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "sensitivity_-0.3_-0.1_8f8189e9",
+    "episodes": 1000,
+    "counts": {
+      "reached": 905,
+      "collision": 34,
+      "timeout": 61
+    },
+    "released": false,
+    "experiment_groups": [
+      "sensitivity"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "sensitivity_-0.3_0.0_6e20d49c",
+    "episodes": 1000,
+    "counts": {
+      "reached": 903,
+      "collision": 30,
+      "timeout": 67
+    },
+    "released": false,
+    "experiment_groups": [
+      "sensitivity"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "sensitivity_-0.3_0.1_d9082915",
+    "episodes": 1000,
+    "counts": {
+      "reached": 903,
+      "collision": 39,
+      "timeout": 58
+    },
+    "released": false,
+    "experiment_groups": [
+      "sensitivity"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "val_dwa_balanced_f6c9da26",
+    "episodes": 300,
+    "counts": {
+      "reached": 152,
+      "collision": 0,
+      "timeout": 148
+    },
+    "released": true,
+    "experiment_groups": [
+      "validation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "val_dwa_clearance_9fa88c6b",
+    "episodes": 300,
+    "counts": {
+      "reached": 130,
+      "collision": 0,
+      "timeout": 170
+    },
+    "released": true,
+    "experiment_groups": [
+      "validation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "val_dwa_progress_58a36158",
+    "episodes": 300,
+    "counts": {
+      "reached": 147,
+      "collision": 2,
+      "timeout": 151
+    },
+    "released": true,
+    "experiment_groups": [
+      "validation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "val_fsrl_best_41bc57c4",
+    "episodes": 300,
+    "counts": {
+      "reached": 288,
+      "collision": 5,
+      "timeout": 7
+    },
+    "released": true,
+    "experiment_groups": [
+      "validation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "val_fsrl_ed445170",
+    "episodes": 300,
+    "counts": {
+      "reached": 281,
+      "collision": 13,
+      "timeout": 6
+    },
+    "released": true,
+    "experiment_groups": [
+      "validation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "val_ppo_65da139e",
+    "episodes": 300,
+    "counts": {
+      "reached": 259,
+      "collision": 12,
+      "timeout": 29
+    },
+    "released": true,
+    "experiment_groups": [
+      "validation"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_10_burst3_emergency_274d5199",
+    "episodes": 1000,
+    "counts": {
+      "reached": 759,
+      "collision": 5,
+      "timeout": 236
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_10_burst3_hold_e6c3d537",
+    "episodes": 1000,
+    "counts": {
+      "reached": 893,
+      "collision": 49,
+      "timeout": 58
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_10_burst5_emergency_84f97463",
+    "episodes": 1000,
+    "counts": {
+      "reached": 735,
+      "collision": 7,
+      "timeout": 258
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_10_burst5_hold_4d79f001",
+    "episodes": 1000,
+    "counts": {
+      "reached": 899,
+      "collision": 42,
+      "timeout": 59
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_10_empirical_emergency_ae4836b5",
+    "episodes": 1000,
+    "counts": {
+      "reached": 777,
+      "collision": 10,
+      "timeout": 213
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_10_empirical_hold_700d2292",
+    "episodes": 1000,
+    "counts": {
+      "reached": 901,
+      "collision": 47,
+      "timeout": 52
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_10_iid_fail_emergency_9a745565",
+    "episodes": 1000,
+    "counts": {
+      "reached": 768,
+      "collision": 7,
+      "timeout": 225
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_10_iid_fail_hold_f2f472eb",
+    "episodes": 1000,
+    "counts": {
+      "reached": 901,
+      "collision": 40,
+      "timeout": 59
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_10_tail161_emergency_dbcca895",
+    "episodes": 1000,
+    "counts": {
+      "reached": 766,
+      "collision": 9,
+      "timeout": 225
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_10_tail161_hold_07e22550",
+    "episodes": 1000,
+    "counts": {
+      "reached": 901,
+      "collision": 43,
+      "timeout": 56
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_10_tail20_emergency_f65a11de",
+    "episodes": 1000,
+    "counts": {
+      "reached": 766,
+      "collision": 9,
+      "timeout": 225
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_10_tail20_hold_28fe43b6",
+    "episodes": 1000,
+    "counts": {
+      "reached": 901,
+      "collision": 43,
+      "timeout": 56
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_10_zero_emergency_822e9a8b",
+    "episodes": 1000,
+    "counts": {
+      "reached": 921,
+      "collision": 26,
+      "timeout": 53
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_10_zero_hold_eff3f985",
+    "episodes": 1000,
+    "counts": {
+      "reached": 921,
+      "collision": 26,
+      "timeout": 53
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_30_burst3_emergency_b37da13a",
+    "episodes": 1000,
+    "counts": {
+      "reached": 861,
+      "collision": 27,
+      "timeout": 112
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_30_burst3_hold_58d48448",
+    "episodes": 1000,
+    "counts": {
+      "reached": 893,
+      "collision": 44,
+      "timeout": 63
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_30_burst5_emergency_46558610",
+    "episodes": 1000,
+    "counts": {
+      "reached": 852,
+      "collision": 28,
+      "timeout": 120
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_30_burst5_hold_32914c8d",
+    "episodes": 1000,
+    "counts": {
+      "reached": 892,
+      "collision": 42,
+      "timeout": 66
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_30_empirical_emergency_cdb5137c",
+    "episodes": 1000,
+    "counts": {
+      "reached": 881,
+      "collision": 24,
+      "timeout": 95
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_30_empirical_hold_da9ed24d",
+    "episodes": 1000,
+    "counts": {
+      "reached": 897,
+      "collision": 47,
+      "timeout": 56
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_30_iid_fail_emergency_e00a4da0",
+    "episodes": 1000,
+    "counts": {
+      "reached": 865,
+      "collision": 27,
+      "timeout": 108
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_30_iid_fail_hold_e4ff38d7",
+    "episodes": 1000,
+    "counts": {
+      "reached": 899,
+      "collision": 41,
+      "timeout": 60
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_30_tail161_emergency_02c1e72a",
+    "episodes": 1000,
+    "counts": {
+      "reached": 873,
+      "collision": 19,
+      "timeout": 108
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_30_tail161_hold_2282c707",
+    "episodes": 1000,
+    "counts": {
+      "reached": 900,
+      "collision": 43,
+      "timeout": 57
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_30_tail20_emergency_3a01ad59",
+    "episodes": 1000,
+    "counts": {
+      "reached": 873,
+      "collision": 19,
+      "timeout": 108
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_30_tail20_hold_ce7db56e",
+    "episodes": 1000,
+    "counts": {
+      "reached": 900,
+      "collision": 43,
+      "timeout": 57
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_30_zero_emergency_e7168907",
+    "episodes": 1000,
+    "counts": {
+      "reached": 904,
+      "collision": 37,
+      "timeout": 59
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_30_zero_hold_004938bd",
+    "episodes": 1000,
+    "counts": {
+      "reached": 904,
+      "collision": 37,
+      "timeout": 59
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_legacy_burst3_emergency_2ef0f98f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 729,
+      "collision": 249,
+      "timeout": 22
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_legacy_burst3_hold_b9b5ce51",
+    "episodes": 1000,
+    "counts": {
+      "reached": 903,
+      "collision": 60,
+      "timeout": 37
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_legacy_empirical_emergency_6ebbb0f2",
+    "episodes": 1000,
+    "counts": {
+      "reached": 753,
+      "collision": 225,
+      "timeout": 22
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_legacy_empirical_hold_25daa228",
+    "episodes": 1000,
+    "counts": {
+      "reached": 897,
+      "collision": 66,
+      "timeout": 37
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_legacy_tail20_emergency_e9212f27",
+    "episodes": 1000,
+    "counts": {
+      "reached": 737,
+      "collision": 240,
+      "timeout": 23
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_legacy_tail20_hold_4d815b70",
+    "episodes": 1000,
+    "counts": {
+      "reached": 902,
+      "collision": 65,
+      "timeout": 33
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_unguarded_burst5_a541caa1",
+    "episodes": 1000,
+    "counts": {
+      "reached": 890,
+      "collision": 46,
+      "timeout": 64
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "offline",
+    "job_id": "virtual_unguarded_tail161_3344235e",
+    "episodes": 1000,
+    "counts": {
+      "reached": 870,
+      "collision": 44,
+      "timeout": 86
+    },
+    "released": false,
+    "experiment_groups": [
+      "virtual"
+    ]
+  },
+  {
+    "group": "controls",
+    "job_id": "addon_cbf_corridor_L0.04_R0.29_df3fbac3",
+    "episodes": 1000,
+    "counts": {
+      "reached": 683,
+      "collision": 12,
+      "timeout": 305
+    },
+    "released": true,
+    "experiment_groups": [
+      "cbf_geometry_control"
+    ]
+  },
+  {
+    "group": "controls",
+    "job_id": "addon_cbf_corridor_L0.08_R0.12_ad38be0d",
+    "episodes": 1000,
+    "counts": {
+      "reached": 828,
+      "collision": 88,
+      "timeout": 84
+    },
+    "released": true,
+    "experiment_groups": [
+      "cbf_geometry_control"
+    ]
+  },
+  {
+    "group": "controls",
+    "job_id": "addon_cbf_corridor_L0.08_R0.29_3cb6acd1",
+    "episodes": 1000,
+    "counts": {
+      "reached": 689,
+      "collision": 12,
+      "timeout": 299
+    },
+    "released": true,
+    "experiment_groups": [
+      "cbf_geometry_control"
+    ]
+  },
+  {
+    "group": "controls",
+    "job_id": "addon_cbf_nominal_L0.04_R0.29_770e589f",
+    "episodes": 1000,
+    "counts": {
+      "reached": 757,
+      "collision": 1,
+      "timeout": 242
+    },
+    "released": true,
+    "experiment_groups": [
+      "cbf_geometry_control"
+    ]
+  },
+  {
+    "group": "controls",
+    "job_id": "addon_cbf_nominal_L0.08_R0.29_a3bcf99e",
+    "episodes": 1000,
+    "counts": {
+      "reached": 756,
+      "collision": 2,
+      "timeout": 242
+    },
+    "released": true,
+    "experiment_groups": [
+      "cbf_geometry_control"
+    ]
+  },
+  {
+    "group": "controls",
+    "job_id": "addon_cbf_utrap_L0.04_R0.29_1fddc77e",
+    "episodes": 1000,
+    "counts": {
+      "reached": 864,
+      "collision": 3,
+      "timeout": 133
+    },
+    "released": true,
+    "experiment_groups": [
+      "cbf_geometry_control"
+    ]
+  },
+  {
+    "group": "controls",
+    "job_id": "addon_cbf_utrap_L0.08_R0.12_01770acb",
+    "episodes": 1000,
+    "counts": {
+      "reached": 898,
+      "collision": 36,
+      "timeout": 66
+    },
+    "released": true,
+    "experiment_groups": [
+      "cbf_geometry_control"
+    ]
+  },
+  {
+    "group": "controls",
+    "job_id": "addon_cbf_utrap_L0.08_R0.29_5f49c464",
+    "episodes": 1000,
+    "counts": {
+      "reached": 867,
+      "collision": 3,
+      "timeout": 130
+    },
+    "released": true,
+    "experiment_groups": [
+      "cbf_geometry_control"
+    ]
+  },
+  {
+    "group": "controls",
+    "job_id": "addon_gate_legacy_K10_G0R1_5f283069",
+    "episodes": 1000,
+    "counts": {
+      "reached": 901,
+      "collision": 49,
+      "timeout": 50
+    },
+    "released": true,
+    "experiment_groups": [
+      "gate_control"
+    ]
+  },
+  {
+    "group": "controls",
+    "job_id": "addon_gate_legacy_K10_G1R1_7ce8c228",
+    "episodes": 1000,
+    "counts": {
+      "reached": 901,
+      "collision": 49,
+      "timeout": 50
+    },
+    "released": true,
+    "experiment_groups": [
+      "gate_control"
+    ]
+  },
+  {
+    "group": "controls",
+    "job_id": "addon_gate_legacy_K30_G1R1_680d746d",
+    "episodes": 1000,
+    "counts": {
+      "reached": 901,
+      "collision": 49,
+      "timeout": 50
+    },
+    "released": true,
+    "experiment_groups": [
+      "gate_control"
+    ]
+  },
+  {
+    "group": "controls",
+    "job_id": "addon_gate_physical_K10_G0R1_1e079a87",
+    "episodes": 1000,
+    "counts": {
+      "reached": 874,
+      "collision": 27,
+      "timeout": 99
+    },
+    "released": true,
+    "experiment_groups": [
+      "gate_control"
+    ]
+  },
+  {
+    "group": "controls",
+    "job_id": "addon_gate_physical_K10_G1R1_6bc4b644",
+    "episodes": 1000,
+    "counts": {
+      "reached": 874,
+      "collision": 27,
+      "timeout": 99
+    },
+    "released": true,
+    "experiment_groups": [
+      "gate_control"
+    ]
+  },
+  {
+    "group": "controls",
+    "job_id": "addon_gate_physical_K30_G0R1_b47eb424",
+    "episodes": 1000,
+    "counts": {
+      "reached": 874,
+      "collision": 27,
+      "timeout": 99
+    },
+    "released": true,
+    "experiment_groups": [
+      "gate_control"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_ablation_G0R0_95e9ab10",
+    "episodes": 500,
+    "counts": {
+      "reached": 449,
+      "collision": 18,
+      "timeout": 33
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_ablation_G0R1_6b7eabfb",
+    "episodes": 500,
+    "counts": {
+      "reached": 436,
+      "collision": 20,
+      "timeout": 44
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_ablation_G1R0_abdb8cf9",
+    "episodes": 500,
+    "counts": {
+      "reached": 446,
+      "collision": 19,
+      "timeout": 35
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_async_10_f70b5f34",
+    "episodes": 1000,
+    "counts": {
+      "reached": 889,
+      "collision": 29,
+      "timeout": 82
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_async_30_83a1c638",
+    "episodes": 1000,
+    "counts": {
+      "reached": 876,
+      "collision": 35,
+      "timeout": 89
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_blocked_10_f68a8c17",
+    "episodes": 1000,
+    "counts": {
+      "reached": 884,
+      "collision": 32,
+      "timeout": 84
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_blocked_30_79798d28",
+    "episodes": 1000,
+    "counts": {
+      "reached": 885,
+      "collision": 24,
+      "timeout": 91
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_emergency_10_70233f19",
+    "episodes": 500,
+    "counts": {
+      "reached": 438,
+      "collision": 15,
+      "timeout": 47
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_emergency_30_c5155123",
+    "episodes": 500,
+    "counts": {
+      "reached": 436,
+      "collision": 18,
+      "timeout": 46
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_fault_10_burst3_1e63fba7",
+    "episodes": 500,
+    "counts": {
+      "reached": 442,
+      "collision": 19,
+      "timeout": 39
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_fault_10_burst5_26dad105",
+    "episodes": 500,
+    "counts": {
+      "reached": 440,
+      "collision": 16,
+      "timeout": 44
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_fault_10_tail161_170a980a",
+    "episodes": 500,
+    "counts": {
+      "reached": 443,
+      "collision": 17,
+      "timeout": 40
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_fault_10_tail20_dbd36d8e",
+    "episodes": 500,
+    "counts": {
+      "reached": 449,
+      "collision": 14,
+      "timeout": 37
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_fault_30_burst3_cfa88ff6",
+    "episodes": 500,
+    "counts": {
+      "reached": 439,
+      "collision": 16,
+      "timeout": 45
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_fault_30_burst5_cdae9d58",
+    "episodes": 500,
+    "counts": {
+      "reached": 437,
+      "collision": 15,
+      "timeout": 48
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_fault_30_tail161_4340fc35",
+    "episodes": 500,
+    "counts": {
+      "reached": 447,
+      "collision": 16,
+      "timeout": 37
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "live",
+    "job_id": "live_fault_30_tail20_00519c94",
+    "episodes": 500,
+    "counts": {
+      "reached": 441,
+      "collision": 16,
+      "timeout": 43
+    },
+    "released": true,
+    "experiment_groups": [
+      "live"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_best_drop010_d544bd0e",
+    "episodes": 1000,
+    "counts": {
+      "reached": 963,
+      "collision": 25,
+      "timeout": 12
+    },
+    "released": true,
+    "experiment_groups": [
+      "checkpoint_complete"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_best_drop030_6d0cb610",
+    "episodes": 1000,
+    "counts": {
+      "reached": 935,
+      "collision": 59,
+      "timeout": 6
+    },
+    "released": true,
+    "experiment_groups": [
+      "checkpoint_complete"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_best_noise005_2f8d6ff5",
+    "episodes": 1000,
+    "counts": {
+      "reached": 961,
+      "collision": 25,
+      "timeout": 14
+    },
+    "released": true,
+    "experiment_groups": [
+      "checkpoint_complete"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_best_noise010_f4045d2c",
+    "episodes": 1000,
+    "counts": {
+      "reached": 966,
+      "collision": 15,
+      "timeout": 19
+    },
+    "released": true,
+    "experiment_groups": [
+      "checkpoint_complete"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_dwa_305d9203",
+    "episodes": 1000,
+    "counts": {
+      "reached": 693,
+      "collision": 227,
+      "timeout": 80
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_controls"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_instant_10_7c8bf537",
+    "episodes": 1000,
+    "counts": {
+      "reached": 762,
+      "collision": 208,
+      "timeout": 30
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_controls"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_instant_30_85b4d537",
+    "episodes": 1000,
+    "counts": {
+      "reached": 760,
+      "collision": 207,
+      "timeout": 33
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_controls"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_ppo_6237231d",
+    "episodes": 1000,
+    "counts": {
+      "reached": 701,
+      "collision": 186,
+      "timeout": 113
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_controls"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_10_burst3_emergency_26927679",
+    "episodes": 500,
+    "counts": {
+      "reached": 361,
+      "collision": 109,
+      "timeout": 30
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_10_burst3_f01acaf5",
+    "episodes": 500,
+    "counts": {
+      "reached": 365,
+      "collision": 111,
+      "timeout": 24
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_10_burst5_a8b66fa7",
+    "episodes": 500,
+    "counts": {
+      "reached": 365,
+      "collision": 106,
+      "timeout": 29
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_10_empirical_59a3818f",
+    "episodes": 500,
+    "counts": {
+      "reached": 370,
+      "collision": 110,
+      "timeout": 20
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_10_iid_fail_3ba75a0a",
+    "episodes": 500,
+    "counts": {
+      "reached": 375,
+      "collision": 104,
+      "timeout": 21
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_10_tail161_7bd47ab6",
+    "episodes": 500,
+    "counts": {
+      "reached": 369,
+      "collision": 108,
+      "timeout": 23
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_10_tail20_0dc5a8f4",
+    "episodes": 500,
+    "counts": {
+      "reached": 369,
+      "collision": 108,
+      "timeout": 23
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_10_zero_847e7d78",
+    "episodes": 500,
+    "counts": {
+      "reached": 374,
+      "collision": 110,
+      "timeout": 16
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_30_burst3_cfd2af9e",
+    "episodes": 500,
+    "counts": {
+      "reached": 368,
+      "collision": 104,
+      "timeout": 28
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_30_burst3_emergency_05c8acdb",
+    "episodes": 500,
+    "counts": {
+      "reached": 362,
+      "collision": 107,
+      "timeout": 31
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_30_burst5_69ce30ce",
+    "episodes": 500,
+    "counts": {
+      "reached": 368,
+      "collision": 103,
+      "timeout": 29
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_30_empirical_61c2da05",
+    "episodes": 500,
+    "counts": {
+      "reached": 374,
+      "collision": 106,
+      "timeout": 20
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_30_iid_fail_d2143c4b",
+    "episodes": 500,
+    "counts": {
+      "reached": 376,
+      "collision": 103,
+      "timeout": 21
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_30_tail161_91b882fe",
+    "episodes": 500,
+    "counts": {
+      "reached": 367,
+      "collision": 109,
+      "timeout": 24
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_30_tail20_3a6bd739",
+    "episodes": 500,
+    "counts": {
+      "reached": 367,
+      "collision": 109,
+      "timeout": 24
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  },
+  {
+    "group": "final",
+    "job_id": "final_dynamic_virtual_30_zero_67dad935",
+    "episodes": 500,
+    "counts": {
+      "reached": 369,
+      "collision": 115,
+      "timeout": 16
+    },
+    "released": true,
+    "experiment_groups": [
+      "dynamic_faults"
+    ]
+  }
+]
